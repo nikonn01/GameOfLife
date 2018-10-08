@@ -1,6 +1,6 @@
 # Game Of Life
-Simulation of cellular life using a 2D grid and four simple rules
-This application is created in Eclipse using Java language
+Simulation of cellular life using a 2D grid and four simple rules.
+This application is created in Eclipse using Java language.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif">
 
